@@ -1,7 +1,7 @@
 # Nessus-Scripts
 Scripts to export data scan from Nessus into .nessus file (or other extension)
 
-## How it's work
+## How it works
 
 ### Requirements
 * Nessus 6.x
